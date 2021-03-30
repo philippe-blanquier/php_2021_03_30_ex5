@@ -1,0 +1,17 @@
+/*
+ * CSS file 
+ */
+ table, th, td 
+ {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+.t_center
+{
+    text-align:center;
+}
+.t_top
+{
+    caption-side:top;
+}
